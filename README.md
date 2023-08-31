@@ -10,10 +10,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Layout]()
-
-![Schematic](https://github.com/annasli378/PsychotechnicalDriversTest/blob/main/img/sche_.PNG
-)
+![Layout](https://github.com/annasli378/KONEWKA/blob/main/images/schem.JPG)
 
 
 ### Components used
@@ -46,8 +43,7 @@
 
 After starting the device, enter the current time using the buttons (the system does not use an external clock). From then on, the program automatically checks the time, taking a moisture measurement by the sensor every morning. If the soil in the pot is dry, the pump is started. Thanks to a flexible hose, water is transported from the water container to the potholder. After 10s, the pump is turned off. Watering system mounted at the plant is shown below:
 
-![Watering system mounted at the plant](https://github.com/annasli378/PsychotechnicalDriversTest/blob/main/img/press_.PNG
-)
+![Watering system mounted at the plant](https://github.com/annasli378/KONEWKA/blob/main/images/layout.JPG)
 
 
 
